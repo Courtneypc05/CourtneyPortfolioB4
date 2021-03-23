@@ -8,4 +8,4 @@ An OOP Space shooter game made in Processing winter 2020.
 
 ![SpaceGame]() 
 
-Include link to source code
+Source code for project [here](https://github.com/Courtneypc05/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGame).
