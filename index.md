@@ -1,4 +1,5 @@
 # Courtney Cannon's Programming Portfolio 2021
+Language used is java. [Courtney Cannon] (mailto:courcann9649@granitesd.org)
 
 ## Processing Projects
 
