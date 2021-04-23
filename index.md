@@ -7,7 +7,7 @@ Language used is java. [Courtney Cannon] (mailto:courcann9649@granitesd.org)
 
 An OOP Space shooter game made in Processing winter 2020. 
 
-![SpaceGame]() 
+![SpaceGame](https://github.com/Courtneypc05/ProgrammingPortfolioB4/blob/gh-pages/images/SpaceGame.png) 
 
 Source code for project [here](https://github.com/Courtneypc05/ProgrammingPortfolioB4/tree/gh-pages/src/SpaceGame).
 
